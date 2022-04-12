@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Division Profile</string>
+
+    <string name="Dhaka">Dhaka Division\n(Bengali: ঢাকা বিভাগ, Ḑhaka Bibhag)
+        is an administrative\ndivision within Bangladesh.[2]\nDhaka is the capital
+        city of Bangladesh and also the  largest\ncity as well of the country.
+        It comes among the 10 most\npopulous cities of the world. The Division
+        as constituted prior to 2015 covered an area of 31,051 km2,[2] and had
+        a population of 47,424,418\n at the 2011 Census. However, following the
+        separation of the new Mymensingh\nDivision in 2015,the area has been
+        reduced to 20,508.8 km2 with a population
+        at the 2021 Census of 21,741,005.</string>
+
+    <string name="Mymensingh">
+        Mymensingh Division\n(Bengali: ময়মনসিংহ বিভাগ)
+        is one of the eight administrative\n divisions
+        of Bangladesh. It has an area of 10,485 square
+        kilometres (4,048 sq mi)\n and a population of
+        11,370,000 as of the 2011 census.\nIt was created
+        in 2015 from districts previously\ncomposing the
+        northern part of Dhaka Division.\nIts headquarters are
+        in Mymensingh city in Mymensingh District.[2]
+
+    </string>
+
+    <string name="Barisal">
+        Barishal Division \n
+        is one of the eight
+        administrative divisions of Bangladesh. \n
+        Located in the south-central part of the
+        country, it has an area of 13,644.85 km2 (5,268.31 sq mi)
+        , and a population of 8,325,666 at the 2011 \n Census. It is
+        the least populous Division within the entirety of Bangladesh.
+        It is bounded by Dhaka Division on the \n north, the Bay of Bengal
+        on the south, Chittagong Division on the east and Khulna Division
+        on the west. The administrative capital, Barisal city, lies in
+        the Padma River delta on an offshoot \n of the Arial Khan River.
+        Barisal division is criss-crossed by numerous rivers that
+        earned it the nickname Dhan-Nodi-Khal,\n Ei tin-e Borishal
+        (rice, river and canal built Barishal).
+
+    </string>
+
+
+</resources>

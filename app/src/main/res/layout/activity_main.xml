@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="5dp"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/Dhakaid"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="250dp"
+        android:layout_height="55dp"
+        android:layout_marginBottom="20dp"
+        android:drawableLeft="@drawable/dhaka_city_sm"
+        android:text="Dhaka"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/MymensinghId"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="250dp"
+        android:layout_marginBottom="20dp"
+        android:layout_height="55dp"
+        android:drawableLeft="@drawable/china_matir_pahar_sm"
+        android:text="Mymensingh"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/BarisalId"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="250dp"
+        android:layout_height="55dp"
+        android:drawableLeft="@drawable/hotel_sedona_international_sm"
+        android:text="Barisal"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>
